@@ -1,2 +1,3 @@
-node_modules
-src/data/transactions.csv
+/venv
+/data/transactions.csv
+__pycache__
